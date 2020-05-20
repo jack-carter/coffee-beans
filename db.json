@@ -9,6 +9,7 @@
     "harvested": "2019-02-24",
     "process": "natural",
     "bags":[{
+      "id": 1,
       "roast": "light",
       "roaster": "TuttleBerry Farms",
       "roasted": "2019-04-17",
@@ -24,6 +25,7 @@
     "harvested": "2019-01-12",
     "process": "sun-dried",
     "bags":[{
+      "id": 1,
       "roast": "light-medium",
       "roaster": "Marxist Bros",
       "roasted": "2019-03-26",
@@ -39,6 +41,7 @@
     "harvested": "2019-05-01",
     "process": "chemically washed",
     "bags":[{
+      "id": 1,
       "roast": "dark",
       "roaster": "Roast Bros",
       "roasted": "2019-05-29",
