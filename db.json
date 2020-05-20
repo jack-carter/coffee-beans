@@ -1,0 +1,47 @@
+{
+  "beans": [{
+    "id": 1,
+    "name": "Nkanda",
+    "region": "Burundi",
+    "elevation": 1100,
+    "variety": "seasonal",
+    "soil": "acidic",
+    "harvested": "2019-02-24",
+    "process": "natural",
+    "bags":[{
+      "roast": "light",
+      "roaster": "TuttleBerry Farms",
+      "roasted": "2019-04-17",
+      "notes": "Flacid yet absurd"
+    }]
+  },{
+    "id": 2,
+    "name": "Meomi",
+    "region": "Indonesia",
+    "elevation": 150,
+    "variety": "Makambe",
+    "soil": "earthy",
+    "harvested": "2019-01-12",
+    "process": "sun-dried",
+    "bags":[{
+      "roast": "light-medium",
+      "roaster": "Marxist Bros",
+      "roasted": "2019-03-26",
+      "notes": "Hints of honey"
+    }]
+  },{
+    "id": 3,
+    "name": "Mixtape",
+    "region": "Brazil",
+    "elevation": 325,
+    "variety": "blended",
+    "soil": "mineral",
+    "harvested": "2019-05-01",
+    "process": "chemically washed",
+    "bags":[{
+      "roast": "dark",
+      "roaster": "Roast Bros",
+      "roasted": "2019-05-29",
+      "notes": "Deep rich flavor"
+    }]
+  }]
