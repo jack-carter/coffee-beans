@@ -13,7 +13,8 @@
       "roast": "light",
       "roaster": "TuttleBerry Farms",
       "roasted": "2019-04-17",
-      "notes": "Flacid yet absurd"
+      "notes": "Flacid yet absurd",
+      "image": "https://res.cloudinary.com/roastcollective/image/upload/h_1600,w_1600,f_jpg,fl_progressive:steep,q_auto:good/v1553897885/solidus/mdswg2ep9tpdwkfbsy1n.png"
     }]
   },{
     "id": 2,
@@ -29,7 +30,8 @@
       "roast": "light-medium",
       "roaster": "Marxist Bros",
       "roasted": "2019-03-26",
-      "notes": "Hints of honey"
+      "notes": "Hints of honey",
+      "image": "https://res.cloudinary.com/roastcollective/image/upload/h_1600,w_1600,f_jpg,fl_progressive:steep,q_auto:good/v1553897885/solidus/mdswg2ep9tpdwkfbsy1n.png"
     }]
   },{
     "id": 3,
@@ -45,7 +47,8 @@
       "roast": "dark",
       "roaster": "Roast Bros",
       "roasted": "2019-05-29",
-      "notes": "Deep rich flavor"
+      "notes": "Deep rich flavor",
+      "image": "https://res.cloudinary.com/roastcollective/image/upload/h_1600,w_1600,f_jpg,fl_progressive:steep,q_auto:good/v1553897885/solidus/mdswg2ep9tpdwkfbsy1n.png"
     }]
   }]
 }
