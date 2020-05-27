@@ -50,5 +50,72 @@
       "notes": "Deep rich flavor",
       "image": "https://res.cloudinary.com/roastcollective/image/upload/h_1600,w_1600,f_jpg,fl_progressive:steep,q_auto:good/v1553897885/solidus/mdswg2ep9tpdwkfbsy1n.png"
     }]
-  }]
+  }],
+  "varietals": {
+    "arabica": [{
+      "name": "Arusha", "countries": [{
+        "name": "Tanzania", "regions": [{
+          "name": "Mount Meru"
+        }],
+        "name": "Papua New Guinea", "regions": [{
+        }]
+      }]
+    },{
+      "name": "Benguet", "countries": [{
+        "name": "Phillipines", "regions": [{
+          "name": "Benguet"
+        },{
+          "name": "Cordillera"
+        }]
+      }]
+    },{
+      "name": "Blue Mountain", "countries": [{
+        "name": "Jamaica", "regions": [{
+          "name": "Blue Mountains"
+        }]
+      },{
+        "name": "Kenya", "regions": [{
+        }]
+      },{
+        "name": "United States", "regions": [{
+          "name": "Hawaii"
+        }]
+      },{
+        "name": "Haiti", "regions": [{
+        }]
+      },{
+        "name": "Papua New Guinea", "regions": [{
+        }]
+      },{
+        "name": "Cameroon", "regions": [{
+        }]
+      }]
+    }],
+    "robusta": [{
+      "name": "Kopi Luwak", "countries":[{
+        "name": "Indonesia", "regions": [{
+          "name": "Sumatra"
+        },{
+          "name": "Java"
+        },{
+          "name": "Bali"
+        },{
+          "name": "Sulawesi"
+        },{
+          "name": "East Timor"
+        }]
+      }]
+    }],
+    "liberica": [{
+      "name": "Kapeng barako", "species": "", "countries":[{
+        "name": "Phillipines", "regions": [{
+          "name": "Batangas"
+        },{
+          "name": "Cavite"
+        }]
+      }]  
+    }],
+    "excelsa": [{
+    }]
+  }
 }
