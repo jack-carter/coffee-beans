@@ -51,6 +51,14 @@
       "image": "https://res.cloudinary.com/roastcollective/image/upload/h_1600,w_1600,f_jpg,fl_progressive:steep,q_auto:good/v1553897885/solidus/mdswg2ep9tpdwkfbsy1n.png"
     }]
   }],
+  "bags": [{
+    "id": 1,
+    "roast": "dark",
+    "roaster": "Roast Bros",
+    "roasted": "2019-05-29",
+    "notes": "Cherry with Vanilla",
+    "image": "https://res.cloudinary.com/roastcollective/image/upload/h_1600,w_1600,f_jpg,fl_progressive:steep,q_auto:good/v1553897885/solidus/mdswg2ep9tpdwkfbsy1n.png"
+  }],
   "varietals": {
     "arabica": [{
       "name": "Arusha", "countries": [{
